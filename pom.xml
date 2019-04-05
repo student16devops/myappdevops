@@ -3,7 +3,7 @@
     <groupId>es.examplecorp.student16</groupId>
     <artifactId>myapp</artifactId>
     <packaging>war</packaging>
-    <version>1.1</version>
+    <version>1.2-SNAPSHOT</version>
     <name>myapp Maven Webapp</name>
     <url>http://maven.apache.org</url>
 
@@ -11,7 +11,7 @@
         <connection>scm:git:git@github.com:student16devops/myappdevops.git</connection>
         <url>scm:git:git@github.com:student16devops/myappdevops.git</url>
         <developerConnection>scm:git:git@github.com:student16devops/myappdevops.git</developerConnection>
-        <tag>myapp-1.1</tag>
+        <tag>myapp-1.0</tag>
     </scm>
 
     <ciManagement>
